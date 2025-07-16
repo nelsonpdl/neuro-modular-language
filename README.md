@@ -74,4 +74,4 @@ Let’s redefine how LLMs think.
 📜 License  
 This project follows an **Open Core licensing model**.  
 - The `.nml` core language and parser are open-source under the MIT License.  
-- Advanced systems like **NMEP™**, **SAC™**, and **C.O.R.E Protocols™** are proprietary extensions and not part of the open-source core.
+- Advanced systems like **NOAP™**, **SAC™**, and **C.O.R.E Protocols™** are proprietary extensions and not part of the open-source core.
